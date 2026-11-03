@@ -38,6 +38,7 @@ products = [
         "description": "Doce tradicional de caju em calda, caseiro e com sabor marcante.",
         "estoque_num": 25,
         "img_url": "img1.jpg",
+        "is_check": False,
     },
     {
         "id": 2,
@@ -54,6 +55,7 @@ products = [
         "description": "Doce de leite cremoso tradicional, derrete na boca.",
         "estoque_num": 40,
         "img_url": "img3.jpg",
+        "is_check": False,
     },
     {
         "id": 4,
@@ -62,6 +64,7 @@ products = [
         "description": "Fatia de torta trufada de chocolate com recheio cremoso e cobertura de ganache.",
         "estoque_num": 10,
         "img_url": "img4.jpg",
+        "is_check": False,
     },
     {
         "id": 5,
@@ -70,6 +73,7 @@ products = [
         "description": "Mix de frutas frescas da estação cortadas, acompanhadas de suco natural de laranja.",
         "estoque_num": 15,
         "img_url": "img5.jpg",
+        "is_check": False,
     },
     {
         "id": 6,
@@ -78,6 +82,7 @@ products = [
         "description": "Bolo de pote sabor prestígio, com massa fofinha e muito recheio.",
         "estoque_num": 20,
         "img_url": "img6.jpg",
+        "is_check": False,
     },
     {
         "id": 7,
@@ -86,5 +91,6 @@ products = [
         "description": "Geladinho gourmet de Ninho com Nutella, cremoso e refrescante.",
         "estoque_num": 50,
         "img_url": "img7.jpg",
+        "is_check": False,
     },
 ]
